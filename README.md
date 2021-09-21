@@ -28,4 +28,4 @@ The data used for this application was was originally apart of the Deloitte Mach
 - Heroku
 - Gunicorn
 
-###### This app was made in collaboration with Lee Rowe, Azamatkhuja Jalilov, Samantha Temple.
+###### This app was made in collaboration with Azamatkhuja Jalilov, Samantha Temple, Lee Rowe, and Dennis Smith. 
