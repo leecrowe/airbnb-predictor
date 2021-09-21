@@ -1,5 +1,4 @@
-# AirBnb Price Predictions 
-[link](https://pay-to-stay-price-predictor.herokuapp.com)
+# [AirBnb Price Predictions](https://pay-to-stay-price-predictor.herokuapp.com)
 ## ✈️ About Our App:
 
 AirBnB dataset collected from major US cities is being utilized to generate estimated price predictions for single day rentals on [airbnb.com](https://www.airbnb.com/).
